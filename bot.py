@@ -1,3 +1,5 @@
+# Number Guessing Game
+# This is a simple number guessing game where the player has to guess a randomly generated number within
 import random
 
 smallest_num = 1
